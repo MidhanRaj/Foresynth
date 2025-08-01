@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "task001",
+      "title": "Design login page",
+      "assigned_to": "dev001",
+      "depends_on": [],
+      "duration_days": 2,
+      "status": "pending",
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}
